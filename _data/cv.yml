@@ -110,7 +110,7 @@ cv:
         releaseDate: 一轮返修
         summary: 本人第二篇论文，但是是本人第一个参与的科研项目，目前投稿至CCF-T1期刊，一轮审稿后返修。
 
-        - title: Agent-Driven Multi-Semantic Fusion for Jailbreak Prompt Detection in Large Language Models
+      - title: Agent-Driven Multi-Semantic Fusion for Jailbreak Prompt Detection in Large Language Models
         authors:
           - ZHU Zhengdao
         publisher: SCI2区
