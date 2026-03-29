@@ -103,7 +103,7 @@ cv:
         url: http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2025.09.006
         summary: 本人第一篇论文，导师为第一作者，很荣幸能发表在CCF-T3级期刊上。
 
-      - title: StegaSense: A Lightweight Near-Lossless Steganographic Defense Against Model Inversion in Fingerprint Compressive Sensing
+      - title: 'StegaSense: A Lightweight Near-Lossless Steganographic Defense Against Model Inversion in Fingerprint Compressive Sensing'
         authors:
           - ZHU Zhengdao
         publisher: 软件学报(CCF-T1)
