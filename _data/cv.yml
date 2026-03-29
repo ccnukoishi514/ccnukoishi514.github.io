@@ -110,11 +110,18 @@ cv:
         releaseDate: 一轮返修
         summary: 本人第二篇论文，但是是本人第一个参与的科研项目，目前投稿至CCF-T1期刊，一轮审稿后返修。
 
+        - title: Agent-Driven Multi-Semantic Fusion for Jailbreak Prompt Detection in Large Language Models
+        authors:
+          - ZHU Zhengdao
+        publisher: SCI2区
+        releaseDate: 在投中
+        summary: 本人第三篇论文，目前还在四处投稿中~
+
     Skills:
       - name: Computer Science 
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Deep learning, Machine learning, Computer vision"
+        keywords: "Python, Pytorch"
 
     Languages:
       - name: Chinese
@@ -126,7 +133,7 @@ cv:
     Interests:
       - name: Computer Science
         icon: fa-solid fa-tag
-        keywords: "Deep learning, Machine learning, Computer vision"
+        keywords: "Deep learning, Machine learning, Computer vision, AI for Science"
 
     #References:
     #  - name: Professor John Doe
