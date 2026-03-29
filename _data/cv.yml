@@ -103,13 +103,12 @@ cv:
         url: http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2025.09.006
         summary: 本人第一篇论文，导师为第一作者，很荣幸能发表在CCF-T3级期刊上。
 
-      #- title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-      #  authors:
-      #    - Albert Einstein
-      #  publisher: Annalen der Physik
-      #  releaseDate: 1905-03-18
-      # url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-      #  summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: StegaSense: A Lightweight Near-Lossless Steganographic Defense Against Model Inversion in Fingerprint Compressive Sensing
+        authors:
+          - ZHU Zhengdao
+        publisher: 软件学报(CCF-T1)
+        releaseDate: 一轮返修
+        summary: 本人第二篇论文，但是是本人第一个参与的科研项目，目前投稿至CCF-T1期刊，一轮审稿后返修。
 
     Skills:
       - name: Computer Science 
