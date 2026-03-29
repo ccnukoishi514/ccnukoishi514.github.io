@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-树莓-数字媒体技术-生存指南",
+        
+          title: "树莓（数字媒体技术）生存指南",
+        
+        description: "在华师就读了4年树莓，想传递一些大家都有可能用到的经验",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/survive/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
