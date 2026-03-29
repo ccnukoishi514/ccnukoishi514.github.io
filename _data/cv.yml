@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: No. 382 Xiongchu Avenue, Hongshan District
+    city: Wuhan
+    region: Hubei
+    postalCode: 430079
+    countryCode: CN
 
   sections:
     Education:
@@ -92,13 +92,12 @@ cv:
     #      - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: 第十八届全国大学生计算机设计大赛国家级二等奖
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "朱正道"
+        date: 2025-08
+        awarder: 第十八届全国大学生计算机设计大赛组织委员会
+        summary: 本科期间参加的第一个比赛，成功获得中南赛区一等奖之后于华东理工大学获得了国家级二等奖。
 
       - title: Max Planck Medal
         authors:
@@ -114,7 +113,7 @@ cv:
         publisher: 信息网络安全(CCF-T3)
         releaseDate: 2025-09-10
         url: http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2025.09.006
-        summary: It is my first paper.
+        summary: 本人第一篇论文，导师为第一作者，很荣幸能发表在CCF-T3级期刊上。
 
       #- title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
       #  authors:
