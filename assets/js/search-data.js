@@ -154,17 +154,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/chartjs/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
       },{id: "post-a-post-with-custom-blockquotes",
         
           title: "a post with custom blockquotes",
@@ -174,17 +163,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
