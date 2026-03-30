@@ -99,17 +99,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/vega-lite/";
           
         },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
-          
-        },
       },{id: "post-a-post-with-chart-js",
         
           title: "a post with chart.js",
@@ -119,17 +108,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/chartjs/";
-          
-        },
-      },{id: "post-a-post-with-custom-blockquotes",
-        
-          title: "a post with custom blockquotes",
-        
-        description: "an example of a blog post with custom blockquotes",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
