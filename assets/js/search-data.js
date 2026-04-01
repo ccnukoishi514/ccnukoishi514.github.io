@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "树莓（数字媒体技术）生存指南",
         
-        description: "在华师就读了4年树莓，想传递一些大家都有可能用到的经验",
+        description: "在华师就读了4年树莓，想传递一些感想和经验吧。",
         section: "Posts",
         handler: () => {
           
