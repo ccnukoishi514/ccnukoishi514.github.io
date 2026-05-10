@@ -44,7 +44,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-树莓-数字媒体技术-生存指南",
+            },{id: "post-record",
+        
+          title: "Record",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/record/";
+          
+        },
+      },{id: "post-树莓-数字媒体技术-生存指南",
         
           title: "树莓（数字媒体技术）生存指南",
         
