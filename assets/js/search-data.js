@@ -63,7 +63,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/record/";
+            window.location.href = "/blog/2026/record1/";
           
         },
       },{id: "post-树莓-数字媒体技术-生存指南",
