@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/record/";
+            window.location.href = "/blog/2026/record2/";
           
         },
       },{id: "post-保研之路-申请篇",
