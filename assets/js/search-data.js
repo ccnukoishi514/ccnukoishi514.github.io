@@ -44,9 +44,20 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-保研之路",
+            },{id: "post-保研之路-套磁篇",
         
-          title: "保研之路",
+          title: "保研之路（套磁篇）",
+        
+        description: "记录一下自己的保研之路吧，实时更新。",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/record/";
+          
+        },
+      },{id: "post-保研之路-申请篇",
+        
+          title: "保研之路（申请篇）",
         
         description: "记录一下自己的保研之路吧，实时更新。",
         section: "Posts",
