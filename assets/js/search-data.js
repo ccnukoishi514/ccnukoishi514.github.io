@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "保研之路（套磁篇）",
         
-        description: "记录一下自己的保研之路吧，实时更新。",
+        description: "记录一下自己的保研之路，实时更新。",
         section: "Posts",
         handler: () => {
           
